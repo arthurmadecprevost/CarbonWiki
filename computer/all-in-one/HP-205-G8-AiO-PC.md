@@ -2,7 +2,7 @@
 title: HP P24v G4 FHD Monitor
 description: 
 published: true
-date: 2022-08-03T14:03:29.805Z
+date: 2022-08-03T14:32:45.767Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-03T14:03:29.805Z
